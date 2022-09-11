@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "-----------------------------------"
+echo "Tugas 1 SISOP Kelas-A"
+echo "-----------------------------------"
+echo "Nama : Sandria Amelia Putri"
+echo "NPM : 21083010005"
+echo "-----------------------------------"
+echo "notes:" 
+echo "-----------------------------------"
+echo "Halo dunia!"
+echo "Ini adalah skrip Bash pertamaku di Linux"
