@@ -9,7 +9,7 @@ let kali=$a*$b
 # memakai expr
 bagi=`expr $a / $b`
 
-# memakai perintah subatitusi $((ekspresi))
+# memakai perintah subtitusi $((ekspresi))
 mod=$(($a % $b))
 
 echo "a + b = $jumlah"
