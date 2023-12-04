@@ -1,5 +1,5 @@
 # Sistem Operasi Linux
-Repository ini berisi rangkaian praktikum kelas sistem operasi yang difokuskan pada Linux, meliputi Tugas 1 hingga Project UAS.
+Repository ini merupakan kumpulan materi praktikum kelas sistem operasi dengan fokus utama pada lingkungan Linux. Materi ini mencakup rentang tugas dari Tugas 1 hingga Proyek UAS, menyajikan pemahaman mendalam tentang berbagai aspek sistem operasi Linux.
 
 ## Project UAS
 Saya membuat sebuah project yaitu program kasir sederhana untuk toko bernama "KASIR SUN". Program ini memungkinkan pengguna, dalam hal ini pembeli, untuk memilih barang yang ingin dibeli berdasarkan daftar barang yang telah didefinisikan. Setiap barang memiliki kode, nama, dan harga tertentu. Berikut adalah langkah-langkah utama dalam program kasir ini:
