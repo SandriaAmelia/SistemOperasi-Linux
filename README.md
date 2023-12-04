@@ -1,7 +1,7 @@
 # SistemOperasi-Linux
 Kumpulan Praktikum Sistem Operasi Linux
 
-## Tugas Akhir
+## Project UAS
 Saya membuat sebuah project yaitu program kasir sederhana untuk toko bernama "KASIR SUN". Program ini memungkinkan pengguna, dalam hal ini pembeli, untuk memilih barang yang ingin dibeli berdasarkan daftar barang yang telah didefinisikan. Setiap barang memiliki kode, nama, dan harga tertentu. Berikut adalah langkah-langkah utama dalam program kasir ini:
 
 1. Pengguna diminta untuk memasukkan nama pembeli.
