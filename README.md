@@ -1,5 +1,5 @@
 # SistemOperasi-Linux
-Repisotory ini merupakan kumpulan praktikum sistem operasi pada Linux yang terdiri dari Tugas 1 hingga Project UAS.
+Kumpulan praktikum sistem operasi Linux yang terdiri dari Tugas 1 hingga Project UAS.
 
 ## Project UAS
 Saya membuat sebuah project yaitu program kasir sederhana untuk toko bernama "KASIR SUN". Program ini memungkinkan pengguna, dalam hal ini pembeli, untuk memilih barang yang ingin dibeli berdasarkan daftar barang yang telah didefinisikan. Setiap barang memiliki kode, nama, dan harga tertentu. Berikut adalah langkah-langkah utama dalam program kasir ini:
